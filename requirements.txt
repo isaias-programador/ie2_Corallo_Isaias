@@ -1,0 +1,10 @@
+Django                      # Python Web Framework
+django-filter               # Filtering support.
+django-model-utils          # Utilities for Django models.
+djangorestframework         # API framework
+Faker                       # Generador de información aleatoria para los test.
+Markdown                    # Markdown support for the browsable API.
+pytest-drf                  # Pytest plugin for Django REST Framework.
+pytest-django               # Integración con Django.
+python-dateutil             # Utilidades para trabajar con fechas.
+
